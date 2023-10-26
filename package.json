@@ -1,7 +1,7 @@
 {
-  "name": "cosmoscan",
+  "name": "CosVM Block Explorer",
   "version": "1.0.0",
-  "description": "Block Explorer for BandChain",
+  "description": "Block Explorer for CosVM",
   "scripts": {
     "clean": "rescript clean -with-deps",
     "build": "rm -rf dist/ && rescript build -with-deps && webpack",
